@@ -94,9 +94,9 @@ footer {
     position: fixed;
     top: 20px;
     right: 20px;
-    width: 10px; /* Adjust as needed */
-    height: 10px;
-    border-radius: 10%; /* Makes the image circular */
+    width: 40px; /* Adjust as needed */
+    height: 40px;
+    border-radius: 50%; /* Makes the image circular */
     border: 2px solid var(--accent-color);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     object-fit: cover;
