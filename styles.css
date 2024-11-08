@@ -89,23 +89,6 @@ footer {
   text-align: center;
 }
 
-/* Fixed Profile Image in Top Right Corner */
-.profile-image-fixed {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    width: 200px; /* Adjust as needed */
-    height: 200px;
-    border-radius: 50%; /* Makes the image circular */
-    border: 2px solid var(--accent-color);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    object-fit: cover;
-    transition: transform 0.3s ease;
-}
-
-.profile-image-fixed:hover {
-    transform: scale(1.1);
-}
 
 
 body {
