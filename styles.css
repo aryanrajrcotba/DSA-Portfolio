@@ -94,10 +94,8 @@ footer {
     position: fixed;
     top: 20px;
     right: 20px;
-    width: 80px; /* Set a reasonable width */
-    height: auto; /* Let height adjust based on width */
-    max-width: 10%; /* Limit image width to prevent it from growing too large */
-    max-height: 80px; /* Set a max height */
+    width: 100px; /* Adjust as needed */
+    height: 100px;
     border-radius: 50%; /* Makes the image circular */
     border: 2px solid var(--accent-color);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
