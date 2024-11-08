@@ -94,8 +94,8 @@ footer {
     position: fixed;
     top: 20px;
     right: 20px;
-    width: 100px; /* Adjust as needed */
-    height: 100px;
+    width: 200px; /* Adjust as needed */
+    height: 200px;
     border-radius: 50%; /* Makes the image circular */
     border: 2px solid var(--accent-color);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
